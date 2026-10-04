@@ -1,0 +1,6 @@
+{
+  "name": "ML Project Explorer & Interactive Lab",
+  "description": "Cẩm nang và phòng thí nghiệm tương tác khám phá các dạng dự án Machine Learning thực chiến từ cơ bản đến nâng cao ngoài Spam Filter và Chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
